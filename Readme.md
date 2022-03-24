@@ -6,7 +6,7 @@ You also need to use this to apply for official maintainership for your device.
 
 # Content
 
-1. [List of official devices](devices.md)
-2. [Device stability requirements](requirements.md)
-3. [Maintainer requirements](maintainerreq.md)
-4. [Official maintainership form](https://github.com/ProjectBlaze/maintainership/issues/new/choose)
+
+1. [Device stability requirements](requirements.md)
+2. [Maintainer requirements](maintainerreq.md)
+3. [Official maintainership form](https://github.com/ProjectBlaze/maintainership/issues/new/choose)
