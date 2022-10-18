@@ -2,7 +2,7 @@
 name: Device maintainership form
 about: Apply for official maintainership
 title: New maintainer
-assignees: [TechnoStartOfficial, afterallafk, BasharatKar, rockstar5495, OmarAlCoptan]
+assignees: [mrtechnostart, afterallafk, BasharatKar, rockstar5495, OmarAlCoptan]
 ---
 
 
