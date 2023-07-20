@@ -16,4 +16,6 @@ Before you apply to add your device into our list of official devices, you shoul
 
 7. You **MUST** meet all requirements as mentioned [here](requirements.md).
 
+8. After joining team, **atleast give 2 consecutive updates for your device**.
+
 If all is well, you may apply [here](https://github.com/TechnoStartOfficial/official_devices/issues/new/choose)
